@@ -1,3 +1,3 @@
 # hello-world
-first repositiry
+first repository
 first commit
